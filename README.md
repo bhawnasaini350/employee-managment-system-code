@@ -1,0 +1,2 @@
+Employee Management System project
+The Employee Management System (EMS) is a robust console-based application designed to facilitate efficient handling of employee records. This system streamlines human resource operations by automating core administrative tasks related to employee data management. With no reliance on external database systems, the EMS provides a simple yet effective solution for managing employee information directly within the application.
